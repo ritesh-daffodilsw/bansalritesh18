@@ -5,7 +5,7 @@ Package.describe({
   version: "1.0.0",
 
   name: "ritesh:grid",
- 
+  git : "https://github.com/ritesh-daffodilsw/bansalritesh18/ritesh:riteshgrid"  
  
 });
 
