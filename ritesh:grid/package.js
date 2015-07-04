@@ -2,7 +2,7 @@ Package.describe({
 
   summary: "What this does",
 
-  version: "1.0.4",
+  version: "1.0.6",
 
   name: "ritesh:grid",
   git : "https://github.com/ritesh-daffodilsw/bansalritesh18/ritesh:riteshgrid"  
