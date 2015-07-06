@@ -13,4 +13,5 @@ Package.describe({
 Package.on_use(function(api){
   api.use("templating", "client");
   api.add_files("template.html", "client");
+  api.add_files("serverfile.js", "server");
 });
